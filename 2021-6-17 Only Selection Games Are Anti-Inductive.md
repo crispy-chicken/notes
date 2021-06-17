@@ -48,6 +48,8 @@ Status is the next simplest kind of play, as it simply relies on comparisons of 
 
 ---
 
+## Okay, but why do these rules matter?
+
 What have we gained? Obviously there's nothing very interesting about the alternative games we can use these rules to create, because the heart of the game is actually the dynamics of play that bring us joy. This is closer to Caillois's taxonomy, which is meant to be a taxonomy of what makes a game _pleasurable_. The above, it should now be clear, is a taxonomy of what causes changes in the game state, e.g. what causes a piece to move on the Chess board is a choice, but in Guitar Hero it is the *skill* of the paper in doing what they already know they have to that determines how the game proceeds. 
 
 A few observations:
@@ -91,6 +93,6 @@ Finally, the degree of anti-inductivity tends to indicate something about a game
 
 ---
 
-# What else?
+## What else?
 
 This has been a basic sketch of types of play, and why selection play is special in regards to its anti-inductivity. However, anti-inductivity is a general word for the way knowledge proliferates so that widely-held notions do not offer a competitive edge. The better question is, what kind of dynamics does this anti-inductivity involve so that things actually move forward?
